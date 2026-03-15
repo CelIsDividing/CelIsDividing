@@ -19,4 +19,4 @@ I'm always trying to improve my skills and write better code than I did yesterda
 * I spend a lot of time debugging things that worked yesterday
 * Stack Overflow is basically my second home
 * I enjoy building random side projects
-* Currently learning more about backend and full-stack development
+* Currently learning more about penetration testing and full-stack development
